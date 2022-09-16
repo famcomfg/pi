@@ -1,1 +1,3 @@
 Sales Order #,Customer,Order Date,Promise Date,Item,Order Quantity,QOH,Remaining QOH,days_past_prom_dt,edw_load_dtm
+267956,AMAZ,09/02/2022,09/16/2022,WVEB8WH,1,6,5,0,2022-09-16 16:37:30
+268391,WEB,09/09/2022,09/16/2022,JV4,6,38,32,0,2022-09-16 16:37:29
